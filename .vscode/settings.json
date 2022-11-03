@@ -2,7 +2,7 @@
     "editor.wordWrap": "on",
     "ltex.enabled": true,
     "ltex.language": "de-DE",
-    "ltex.additionalRules.motherTongue": "en-US",
+    "ltex.additionalRules.motherTongue": "de-DE",
     "ltex.additionalRules.enablePickyRules": true,
     "ltex.checkFrequency": "edit",
     "latex-workshop.docker.enabled": true,
