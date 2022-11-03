@@ -1,7 +1,7 @@
 {
     "editor.wordWrap": "on",
     "ltex.enabled": true,
-    "ltex.language": "en-US",
+    "ltex.language": "de-DE",
     "ltex.additionalRules.motherTongue": "en-US",
     "ltex.additionalRules.enablePickyRules": true,
     "ltex.checkFrequency": "edit",
