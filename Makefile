@@ -1,11 +1,11 @@
 #!make
 
-DIR:=$(shell sh -c "pwd")
-USER_ID:=$(shell sh -c "id -u")
-USER_NAME:=$(shell sh -c "id -u -n")
+DIR:=C:/Users/Markus/Repos/Uni/Diplom
+USER_ID:=501
+USER_NAME:=sowiemarkus
 USER_HOME:=/home/latex
 BASE_IMAGE:=kaestner/latex
-DOCKER_IMAGE:=mustermann/latex
+DOCKER_IMAGE:=wieland/latex
 
 .PHONY: all
 
